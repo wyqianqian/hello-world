@@ -1,3 +1,1 @@
-# hello-world
-just a simple repository
-welcome
+This is my first testing repository.
